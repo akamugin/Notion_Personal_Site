@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '0812c2600fdd444ebe2cfa8041a9aa02',
+  rootNotionPageId: '1dd9e4826fd142f6925fcb88f105799e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Haoli Yin',
-  domain: 'haoliyin.me',
-  author: 'Haoli Yin',
+  name: 'Stella Lee',
+  domain: 'stellalee.me',
+  author: 'Stella Lee',
 
   // open graph metadata (optional)
   description: 'My Personal Site',
 
   // social usernames (optional)
-  twitter: 'HaoliYin',
-  github: 'Nano1337',
-  linkedin: 'haoliyin',
+  // twitter: 'HaoliYin',
+  // github: 'Nano1337',
+  // linkedin: 'haoliyin',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
